@@ -12,3 +12,15 @@ import "./greet";
 
 console.log("■ prac03.ts の実行");
 import "./prac03";
+
+console.log("■ prac04.ts の実行");
+import "./prac04";
+
+console.log("■ prac05.ts の実行");
+import "./prac05";
+
+console.log("■ prac06.ts の実行");
+import "./prac06";
+
+console.log("■ prac07.ts の実行");
+import "./prac07";
